@@ -1,19 +1,17 @@
-.h1 {
+h1 {
     text-align: center;
     font-weight: 200;
 }
 
-.input {
+input {
     margin-top: 16px;
     border-radius: 12px;
     border: 1px solid #FE3C72;
     text-align: center;
 }
-
-.input:hover {
+input:hover {
     border: 1px solid #FE3C72;
 }
-
 .logo {
     width: 30px;
     height: 30px;
@@ -24,7 +22,7 @@
     justify-content: center;
 }
 
-.input:focus {
+input:focus {
     outline-width: 0;
 }
 
@@ -32,7 +30,7 @@
     padding: 12px 8px;
 }
 
-.button {
+button {
     background: #FE3C72;
     color: white;
     border-radius: 16px;
